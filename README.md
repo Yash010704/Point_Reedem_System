@@ -20,7 +20,7 @@ This Python program is a simple pharmacy billing system that allows customers to
 ### Initial Setup
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Yash010704/Point_Reedem_System.git>
    ```
 2. Navigate to the directory:
    ```bash
